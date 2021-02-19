@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ลภัสรดา คำจุลลา
+# STUDENT ID: 630610757
