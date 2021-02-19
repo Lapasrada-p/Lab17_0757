@@ -40,6 +40,8 @@ void importDataFromFile(string filename, vector<string> &names, vector<int> &sco
     }
 }
 
+
+
 void getCommand(string &command,string &key){
     cout<<"Please input your command: ";
     cin>>command;
